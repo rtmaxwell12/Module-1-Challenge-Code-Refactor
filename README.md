@@ -9,7 +9,7 @@ The changes made to the code include adding semantic HTML elements, adjusting el
 Installation is not required, the final product can be accessed via a web browser. 
 
 The deployed website can be found at the link below:
-LINK
+https://rtmaxwell12.github.io/Module-1-Challenge-Code-Refactor/#search-engine-optimization
 
 ## Usage
 Screenshot of the website landing page below:
