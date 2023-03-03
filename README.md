@@ -13,4 +13,4 @@ LINK
 
 ## Usage
 Screenshot of the website landing page below:
-PICTURE
+<img width="1364" alt="Untitled" src="https://user-images.githubusercontent.com/113951402/222799884-bedd1c70-7b1b-4190-8cad-2941f551ea6c.png">
